@@ -1,0 +1,252 @@
+/* BIKE WEBSITE
+//THE MOONLIGHT
+//////////// */
+
+body{
+    font-family:Arial ;
+    margin:0;
+    background: #f5f4f4;
+}
+
+#wrapper{
+    width: 980px;
+    margin:0 auto;
+    background:#fff;
+}
+
+#main-navigation{
+    background:#181818;
+    padding:10px;
+}
+
+#main-navigation ul{
+    text-align: right;
+    list-style-type: none;
+    margin-right: 10px;
+}
+
+#main-navigation li{
+    display: inline-block;
+    margin-left: 20px;
+}
+
+#main-navigation a{
+    text-decoration: none;
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 14px;
+    padding: 6px;
+}
+
+#main-navigation a.current{
+    background: #8f746c;
+    border-radius: 4px;
+}
+
+#lead-banner img{
+    width:100% ;
+    height: 500px;
+}
+
+#footer-banner img{
+    width: 100%;
+    height: 600px;
+}
+
+#shop{
+    margin: 30px 0;
+    text-align: center;
+}
+
+#shop h2.product-name{
+    font-size: 15px;
+    margin-bottom: 0;
+}
+
+#shop span.prices{
+    display: block;
+    font-size: 50px;
+}
+
+#shop a.add-to-bag{
+    display: block;
+    color: #8f746c;
+    text-transform: uppercase;
+    font-size: 12px;
+    text-decoration: none;
+    padding: 10px 0;
+    border: 2px solid #8f746c;
+    width: 210px;
+    margin: 20px auto;
+}
+
+#shop a.add-to-bag:hover{
+    color: #fff;
+    background: #8f746c;
+}
+
+.bicycle{
+    color: white;
+    background:#f31313;
+    text-align: center;
+}
+
+body#about-type{
+    margin: 0px;
+    background-image: url("./image/footer1.jpg");
+    line-height: 1.6;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 600;
+}
+
+body #about-type > p{
+    color: darkolivegreen;
+}
+
+h3{
+    color: black;
+}
+    
+    
+
+img.current-bikes{
+    float: right;
+    padding-top: 0px;
+    width: 180px;
+    height: 180px;
+}
+
+#type-of-bikes{
+    margin: 0px auto;
+}
+
+.welcome{
+    text-align: center;
+}
+
+#bmx2{
+    text-align: center;
+}
+
+#tandem2{
+    text-align: center;
+}
+
+#cyclocross2{
+    text-align: center;
+}
+
+.bike-image{
+    margin: 0px auto;
+    width: 700px;
+    height: 500px;
+}
+
+#road2{
+    text-align: center;
+}
+
+#mountain2{
+    text-align: center;
+}
+
+#hybrid{
+    text-align: center;
+}
+
+.bike-name{
+    text-align: center;
+    margin: 0px auto;
+    text-transform: uppercase;
+    font-family: Verdana;
+    font-weight: 600;
+    font-size: 32px;
+}
+
+.prices{
+    text-align: center;
+    text-decoration: solid;
+    font-size: 24px;
+    margin-top: 0px;
+}
+
+.add-to-basket{
+    margin: 10px auto;
+    text-align: center;
+    background: linear-gradient(rgba(129, 103, 103, 1.0) , rgba(255, 255, 255, 0.6));
+    text-transform: uppercase;
+    padding: 15px 2px;
+    width: 210px;
+    border: 2px #8f746c;
+    height: 15px;
+}
+
+.add-to-basket:hover{
+    background: linear-gradient(rgb(241, 239, 239, 0.6) , rgba(129,103,103,1.0));
+}
+
+img.bimage{
+    position: absolute;
+    margin: 0px ;
+    z-index: -1;
+    width: 2000px;
+}
+
+.sorry{
+    color: aquamarine;
+    font:900, arial, 48px;
+}
+
+#about{
+    background-color: blueviolet;
+    margin: 0px auto;
+}
+
+.us{
+    text-align: center;
+    margin:0px auto ;
+    font-weight: 900;
+}
+
+.web{
+    text-align: center;
+    margin:0px auto ;
+    font-weight: 900;
+}
+
+#copyright{
+    background-color: purple;
+    margin: 0px;
+}
+
+.copyright{
+    text-align: center;
+    text-transform: uppercase;
+}
+
+#contact{
+    text-align: center;
+}
+
+.dp{
+    text-align: center;
+}
+
+.boy{
+    text-align:center;
+    width: 150px;
+    border-radius: 50%;
+}
+
+.him{
+text-align: center;
+background-color: aqua;
+}
+
+#logo{
+    text-align: left;
+}
+
+.whatsapp-logo{
+    width:100px;
+}
