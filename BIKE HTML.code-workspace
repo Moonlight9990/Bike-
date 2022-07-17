@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\Pictures\\Saved Pictures"
+		},
+		{
+			"path": "..\\..\\Desktop"
+		}
+	],
+	"settings": {
+		"liveServer.settings.fullReload": true,
+		"liveServer.settings.NoBrowser": false,
+		"liveServer.settings.CustomBrowser": "chrome",
+		"liveServer.settings.donotShowInfoMsg": true,
+		"liveServer.settings.donotVerifyTags": true,
+		"liveServer.settings.multiRootWorkspaceName": "Desktop"
+	}
+}
